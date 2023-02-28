@@ -13,9 +13,10 @@ Across my career I have worked in a wide range of industries, ranging from manag
 *   📝 I write about about Web3 and NFTs monthly on Medium: https://blog.viden.ventures/
 *   🌐 I am an active member of DAOs focused on Token Engineering, where I am advisor for Web3 projects
 *   💻 I developed, together with a dev, an application for analyzing and monitoring NFTs on-chain data, in order to build investment strategies.
+*   🤖  I'm learning Machine Learning focused on Blockchain applications
 *   🌍  I'm based in São Paulo, Brazil
 *   ✉️  You can contact me at [andre.castelo1@gmail.com](mailto:andre.castelo1@gmail.com)
-*   🤖  I'm learning Machine Learning focused on Blockchain applications
+
 
 ### Skills 
 <p align="left">
