@@ -4,7 +4,8 @@ Hi 👋 My name is André Castelo
 Data Scientist & Crypto Specialist
 ----------------------------------
 
-A digital assets enthusiast since 2017, I currently work as a Crypto Specialist in an Investment Fund. I'm looking forward to seeing how this technology reimagines ways in which "capital" are transmitted and "value" cultivated. I believe that Web3 represents a paradigm shift in the way humans and devices organize, collaborate and consume. Collector and curious about generative art. Across my career I have worked in a wide range of industries, ranging from managing international buildings to developing the commercial area of a Editech, but have an affinity for and expertise in the fast growing WEB3 Industry. 
+A digital assets enthusiast since 2017, I currently work as a Crypto Specialist in an Investment Fund. I'm looking forward to seeing how this technology reimagines ways in which "capital" are transmitted and "value" cultivated. I believe that Web3 represents a paradigm shift in the way humans and devices organize, collaborate and consume. Collector and curious about generative art. 
+Across my career I have worked in a wide range of industries, ranging from managing international buildings to developing the commercial area of a Editech, but have an affinity for and expertise in the fast growing WEB3 Industry. 
 
 *   🧠  I'm currently enrolled in a Data Science MBA at USP
 *   📚  I am the co-author of a book on web3 technology for the Brazilian financial market: https://livro.viden.ventures/
